@@ -5,9 +5,7 @@ A React App that allows user to make a third party request for the available tex
 ## URL's :
   
   1. Taking Input URL :
-	
-	< https://csb-nsvi1.netlify.app/ >
+	<https://csb-nsvi1.netlify.app/>
 	
   2. Showing Data URL :
-	
-	< https://csb-1mh0t.netlify.app/ >
+	<https://csb-1mh0t.netlify.app/>
