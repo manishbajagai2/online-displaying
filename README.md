@@ -28,3 +28,18 @@ A React App that allows user to make a third party request for the available tex
 4.	App.js : Compiles the above components created and exports to index.js.
 
 5.	index.js : Renders the final project with the main div is linked to id = "root" from index.html file in the public section. 	
+
+## Test Cases :
+
+1.	Users cannot input negative Number
+2.	Users cannot input text
+3.	Users cannot enter 0 
+	![alt text](https://github.com/manishbajagai2/online-displaying/blob/main/Images/Lesser.png)
+	
+4.	Users cannot exceed maximum frequency in the sample input
+	![alt text](https://github.com/manishbajagai2/online-displaying/blob/main/Images/Greater.png)
+	
+## Looks : 
+
+![alt text](https://github.com/manishbajagai2/online-displaying/blob/main/main.png)
+	
