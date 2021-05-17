@@ -43,5 +43,5 @@ A React App that allows user to make a third party request for the available tex
 
 ![alt text](https://github.com/manishbajagai2/online-displaying/blob/main/main.png)
 
-![alt text](https://github.com/manishbajagai2/online-displaying/blob/main/main.png)
+![alt text](https://github.com/manishbajagai2/online-displaying/blob/main/data.png)
 	
